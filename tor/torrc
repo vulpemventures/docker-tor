@@ -1,1 +1,5 @@
 SOCKSPort 0.0.0.0:9050
+
+### This section is just for location-hidden services ###
+# HiddenServiceDir /etc/tor/service
+# HiddenServicePort 8333 127.0.0.1:8333
