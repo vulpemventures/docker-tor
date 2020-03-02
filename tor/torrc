@@ -1,5 +1,0 @@
-SOCKSPort 0.0.0.0:9050
-
-### This section is just for location-hidden services ###
-HiddenServiceDir /etc/tor/btcd-testnet
-HiddenServicePort 18333 btcd.local:18333
